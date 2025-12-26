@@ -3,4 +3,4 @@
 Open Source Script for the game The Butchery
 [www.roblox.com/games/11928087342/The-Butchery](url)
 
-![alt text](https://github.com/[djsiskovits]/[TheButcheryScript]/blob/preview.png?raw=true)
+![alt text](https://github.com/[djsiskovits]/[TheButcheryScript]/blob/main/preview.png?raw=true)
