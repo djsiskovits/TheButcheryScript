@@ -8,5 +8,5 @@ Open Source Script for the game The Butchery
 # Loadstring
 
 ```lua
-  loadstring(game:HttpGet(('https://raw.githubusercontent.com/depthso/Grow-a-Garden/refs/heads/main/autofarm.lua')))())())
+  loadstring(game:HttpGet(('https://raw.githubusercontent.com/djsiskovits/TheButcheryScript/refs/heads/main/The%20Butchery.lua')))())())
 ```
