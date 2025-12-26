@@ -4,3 +4,9 @@ Open Source Script for the game The Butchery
 [www.roblox.com/games/11928087342/The-Butchery](url)
 
 ![image](https://github.com/djsiskovits/TheButcheryScript/blob/main/preview.png?raw=true)
+
+# Loadstring
+
+```lua
+  loadstring(game:HttpGet(('https://raw.githubusercontent.com/depthso/Grow-a-Garden/refs/heads/main/autofarm.lua')))())())
+```
