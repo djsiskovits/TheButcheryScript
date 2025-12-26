@@ -32,7 +32,7 @@ local PathfindingZones = workspace._PathfindingZones
 
 for _,Character in pairs(Characters:GetChildren()) do if Character:FindFirstChild("HighlightESP") and Character:FindFirstChild("NameESP") then Character:FindFirstChild("HighlightESP"):Destroy() Character:FindFirstChild("NameESP"):Destroy() end  end
 Character.Humanoid.JumpPower = 0;Character.Humanoid.UseJumpPower = false;Character.Humanoid.WalkSpeed = 6
-for _,Model in pairs(PathfindingZones:GetChildren()) do for _,v in pairs(Model:GetChildren()) do v.Transparency = 1 end end end 
+for _,Model in pairs(PathfindingZones:GetChildren()) do for _,v in pairs(Model:GetChildren()) do v.Transparency = 1 end end 
 Lighting.Ambient = Color3.fromRGB(0,0,0)
 
 
@@ -275,4 +275,5 @@ KillAll.event:Connect(function()
 		CharacterO:Destroy()
 	end
 end)
+
 
