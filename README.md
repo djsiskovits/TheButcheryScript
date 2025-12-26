@@ -2,7 +2,7 @@
 
 Open Source Script for the game The Butchery
 
-[Game](www.roblox.com/games/11928087342/The-Butchery)
+[Game](https://www.roblox.com/games/11928087342/The-Butchery)
 
 
 Open All Doors ``BedroomDoor.CFrame`` is set **Wrong**, May be updated or Open the door the other way.
